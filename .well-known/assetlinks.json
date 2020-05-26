@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.directfreight.driver.debug",
+      "sha256_cert_fingerprints": [
+        "DC:D0:D4:7C:BD:BD:72:41:A6:27:A7:C9:6D:6A:5B:CE:DF:20:FC:C3:08:AF:BD:29:E8:57:58:2F:5B:11:8E:81"
+      ]
+    }
+  }
+]
